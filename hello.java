@@ -11,6 +11,7 @@ class hello{
           }
           System.out.println();
        }
+       System.out.println("Thank you ");
    }
     
 }
